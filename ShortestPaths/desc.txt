@@ -1,0 +1,5 @@
+An implementation of Djikstra's algorithm using Java
+Demonstrates object oriented programming using classes and generics, data structures, and algorithms knowledge
+Dataset used, nyc.txt, contains information to and from named locations
+nyc.txt: longitude1 latitude1 longitude2 latitude2 distance to--from
+73.9665,40.7812 74.0134,40.7127 5.62403340785201 Central_Park--One_World_Trade_Center
